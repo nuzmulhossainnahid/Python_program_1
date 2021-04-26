@@ -31,9 +31,22 @@
 # print(X2)
 
 
-# 6practice-3
-x = input('Enter cal Value: ')
-c = float(x)
+# # 6practice-3
+# x = input('Enter cal Value: ')
+# c = float(x)
+#
+# f = (9/5)*c+32
+# print(f)
 
-f = (9/5)*c+32
-print(f)
+# # While Loop
+#
+# x = 0
+# while x <= 5:
+#     print(x)
+#     x = x+1
+#
+# print('Hello')
+
+# For loop
+for i in range(3,10,2):
+    print(i)
